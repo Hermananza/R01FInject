@@ -56,8 +56,7 @@ Semua pengaturan dan konfigurasi dapat dilakukan langsung dari terminal mengguna
 - [ ] 6. Simpan Data Tersebut Yang di kirim oleh bot
 
 2. Jalankan Cmd ini di Terminal Linux kalian
-- [ ] 1. ```curl -o start.sh -sSL https://raw.githubusercontent.com/GME09/R01FInject/main/start.sh chmod +x start.sh ./start.sh
-```
+- [ ] 1. ```curl -o start.sh -sSL https://raw.githubusercontent.com/GME09/R01FInject/main/start.sh chmod +x start.sh ./start.sh```
 - [ ] 2. ```source ~/.bashrc```
 - [ ] 3. ```run install R01FInject```
 
