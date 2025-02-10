@@ -1,6 +1,6 @@
 # 🚀 **R01FInject**  
 
-![Project Banner](R01FInject/Pic/foto.png)  
+![Project Banner](Pic/foto.png)  
 
 ## 🌟 **Fitur Utama**  
 ✅ **Manajemen server berbasis terminal** dengan Python3 dan Bash  
@@ -22,7 +22,7 @@
 Kami sangat terbuka untuk kontribusi! Jika ingin membantu, silakan gabung di komunitas untuk diskusi dll,  
 
 ## 📸 **Tangkapan Layar**  
-![Screenshot 1](R01FInject/Pic/foto1.png)
+![Screenshot 1](Pic/foto1.png)
 
 ## 🛠 **Teknologi yang Digunakan**  
 - 🐍 **[Python3](https://www.python.org/)** - Backend utama untuk manajemen server  
