@@ -58,7 +58,7 @@ Semua pengaturan dan konfigurasi dapat dilakukan langsung dari terminal mengguna
 2. Jalankan Cmd ini di Terminal Linux kalian
 - [ ] 1.
 ``` 
-curl -o start.sh -sSL https://raw.githubusercontent.com/GME09/R01FInject/main/start.sh && chmod +x start.sh && ./start.sh
+curl -o start.sh -sSL https://raw.githubusercontent.com/Hermananza/R01FInject/main/start.sh && chmod +x start.sh && ./start.sh
 ```
 - [ ] 2. 
 ```
